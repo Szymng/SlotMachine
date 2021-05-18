@@ -1,12 +1,3 @@
-Szymon Nguyen
-
-Nr albumu 300325
-
-Grupa 103
-
-Oceniający: mgr inż. Bartosz Dec
-
-
 # Dokumentacja zadania programistycznego nr 1
 
 ## 1. Specyfikacja programu
