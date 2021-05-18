@@ -7,3 +7,9 @@ cmake-build-debug
 SlotMachine.exe
 SlotMachine.ilk
 SlotMachine.pdb
+CMakeFiles
+cmake_install.cmake
+Makefile
+SlotMachine
+CMakeCache.txt
+.gitignore
