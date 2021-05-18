@@ -1,0 +1,8 @@
+Type 'start' then 'pull' to play, 'q' to exit or 'instruction' for instruction.
+If you do not have money type command 'cheat.
+Rewards:
+Cherry: 200
+Seven: 300
+Lemon: 1000
+Star: 2000
+Diamond: 5000
