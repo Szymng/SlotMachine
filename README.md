@@ -1,4 +1,4 @@
-# PROE2020Z_Szymon_Nguyen_zadanie_programistyczne_1
+# Slot Machine PL
 
 ## Specyfikacja wstępna - Gra hazardowa typu jednoręki bandyta (Slot Machine)
 ### Specyfikacja techniczna - początkowy podział klas
