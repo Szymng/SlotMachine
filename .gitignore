@@ -4,3 +4,6 @@ Debug
 .vscode
 .idea
 cmake-build-debug
+SlotMachine.exe
+SlotMachine.ilk
+SlotMachine.pdb
